@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "576226024578",
+    "firebase_url": "https://carry-5ceeb.firebaseio.com",
+    "project_id": "carry-5ceeb",
+    "storage_bucket": "carry-5ceeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576226024578:android:37e7aa4d84eda0c262e89b",
+        "android_client_info": {
+          "package_name": "com.raiz.carry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576226024578-68mkdi8hpgviavr1njbl8pijvq19oufl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv5hX2HOmK3vd9grEkbv0Zux_mc_D9-pI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576226024578-68mkdi8hpgviavr1njbl8pijvq19oufl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
