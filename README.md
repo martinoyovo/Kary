@@ -1,6 +1,6 @@
-# carry
+# Kary
 
-a logistic app
+Logistic app
 
 ## Getting Started
 
